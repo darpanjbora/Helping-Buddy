@@ -1,10 +1,16 @@
 # Helping-Buddy
-It is a android application for emergency situations.
-Integration of google map API helps in sending the accurate location of the victim to the emergency contact. 
+It is an android application for emergency situations.
+
+Integration of Google Map API helps in sending the accurate location of the victim to the emergency contact. 
 
 Screenshots : 
+
+
 Interface of the application : 
 ![alt text](https://github.com/darpanjbora/Helping-Buddy/blob/master/Screenshots/Screenshot_20161123-220153.png)
+
+
+
 
 Format of the emergency mail : 
 ![alt text](https://github.com/darpanjbora/Helping-Buddy/blob/master/Screenshots/Screenshot_20161123-220221.png)
